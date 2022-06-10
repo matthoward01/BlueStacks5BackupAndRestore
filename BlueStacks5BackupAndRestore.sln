@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueStacks5BackupAndRestore", "BlueStacks5BackupAndRestore\BlueStacks5BackupAndRestore.csproj", "{7AC28FD3-47AD-4A86-906E-B62372C75DF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AC28FD3-47AD-4A86-906E-B62372C75DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC28FD3-47AD-4A86-906E-B62372C75DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC28FD3-47AD-4A86-906E-B62372C75DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC28FD3-47AD-4A86-906E-B62372C75DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C026E9C4-C1AD-402A-B4B3-791D21E1BD11}
+	EndGlobalSection
+EndGlobal
